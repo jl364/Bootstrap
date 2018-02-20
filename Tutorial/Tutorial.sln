@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Form", "Form\", "{0DDFA03A-630D-4E69-B101-7BD0EB59A1B4}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_31218"
+		Debug.AspNetCompiler.PhysicalPath = "Form\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_31218\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_31218"
+		Release.AspNetCompiler.PhysicalPath = "Form\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_31218\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "31218"
+		SlnRelativePath = "Form\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Basic", "..\Basic\", "{3D067A26-2CC3-476C-B1AF-1B6F4B35C559}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_33968"
+		Debug.AspNetCompiler.PhysicalPath = "..\Basic\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_33968\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_33968"
+		Release.AspNetCompiler.PhysicalPath = "..\Basic\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_33968\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "33968"
+		SlnRelativePath = "..\Basic\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DDFA03A-630D-4E69-B101-7BD0EB59A1B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DDFA03A-630D-4E69-B101-7BD0EB59A1B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D067A26-2CC3-476C-B1AF-1B6F4B35C559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D067A26-2CC3-476C-B1AF-1B6F4B35C559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
